@@ -43,12 +43,7 @@
 -  Больше информации в прайсе
 -  https://t.me/price_BEPXI
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArseniyBarxot&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyBarxot&layout=compact&theme=tokyonight" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArseniyBarxot&theme=tokyonight" />
 </p>
