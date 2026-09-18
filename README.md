@@ -8,10 +8,10 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp,php,tor" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,obsidian,nodejs,git,mysql,cpp,php,tor" />
 </p>
 
 <p align="center">
