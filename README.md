@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=OSINT&logoColor=white" />
