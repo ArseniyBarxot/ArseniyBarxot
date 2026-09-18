@@ -31,11 +31,17 @@
   </a>
 </p>
 
-### 🔎 О себе
-- 🕵️ Занимаюсь OSINT-разведкой и разработкой инструментов для анализа данных
-- 💻 Пишу на Python, работаю с Django/Flask/FastAPI
-- 📌 Сейчас изучаю: (впишите сюда, например, Rust или ML)
-- 📫 Связаться со мной: Telegram выше
+
+-  Занимаюсь OSINT-разведкой и разработкой инструментов для анализа данных
+-  Пишу на Python, работаю с Django/Flask/FastAPI
+-  Хочу стать Full-stack developer
+-  Связаться со мной: Telegram выше
+-  Так же делаю сайты на заказ
+-  Продаю обучения по OSINT
+-  Делаю досье на заказ
+-  Продаю обучение по программированию
+-  Больше информации в прайсе
+-  https://t.me/price_BEPXI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArseniyBarxot&show_icons=true&theme=tokyonight" />
