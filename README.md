@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,miro" />
 </p>
 
 <p align="center">
