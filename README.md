@@ -36,5 +36,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BEPXI&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArseniyBarxot&show_icons=true&theme=tokyonight" />
 </p>
