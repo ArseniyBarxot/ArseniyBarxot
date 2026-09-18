@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp,php" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django,flask,fastapi,obsidian,nodejs,git,mysql,cpp,php,tor" />
 </p>
 
 <p align="center">
