@@ -52,9 +52,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArseniyBarxot&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArseniyBarxot&theme=tokyonight&no-frame=true" />
-</p> добавь вместо тех что н прогрузились что то новое
+
 
 
 
