@@ -1,11 +1,9 @@
-<h1 align="center">Hello👋🏻,i'm BEPXI,or simply Arseniy</h1>
-
-
+<h1 align="center">Hello👋🏻, i'm BEPXI, or simply Arseniy</h1>
 <h1 align="center">programmer and OSINT specialist from Ukraine.</h1>
 
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7D4698&center=true&vCenter=true&width=600&lines=Programmer+%26+OSINT+specialist;From+Ukraine+%F0%9F%87%BA%F0%9F%87%A6" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode,linux,django" />
@@ -33,8 +31,29 @@
   </a>
 </p>
 
-
+### 🔎 О себе
+- 🕵️ Занимаюсь OSINT-разведкой и разработкой инструментов для анализа данных
+- 💻 Пишу на Python, работаю с Django/Flask/FastAPI
+- 📌 Сейчас изучаю: (впишите сюда, например, Rust или ML)
+- 📫 Связаться со мной: Telegram выше
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArseniyBarxot&show_icons=true&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniyBarxot&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArseniyBarxot&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArseniyBarxot&theme=tokyonight&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArseniyBarxot&color=blueviolet" />
+</p>
+
+
+
+
